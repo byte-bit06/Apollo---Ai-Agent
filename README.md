@@ -1,4 +1,4 @@
-# Apollo – AI Desktop Copilot
+# Apollo – AI Desktop Application
 
 Apollo is a desktop-grade AI assistant built with PySide6/QML and modular Python backends. It blends conversational intelligence with real automation: semantic scheduling, screen-aware help, voice control, Spotify integration, and focus tooling.
 ---
