@@ -6,7 +6,7 @@ Apollo is a desktop-grade AI assistant built with PySide6/QML and modular Python
 
 ## ✨ Features
 
-- **Notion-style Calendar Dashboard**
+- **Calendar Dashboard**
   - Google Calendar sync with week view, drag-to-create events, and live summaries.
   - AI task reshuffling keeps `[Task]` events within deadline windows.
   - Natural-language commands such as “schedule a meeting with Mark tomorrow at 2 PM”.
